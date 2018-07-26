@@ -1,0 +1,2 @@
+# BaconJS with Node
+
